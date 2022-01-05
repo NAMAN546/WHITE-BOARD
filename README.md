@@ -1,1 +1,1 @@
-# OPEN-BOARD
+# PepBoard
